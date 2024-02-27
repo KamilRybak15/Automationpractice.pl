@@ -1,0 +1,7 @@
+pages\BasePage.class
+tests\HomePageTest.class
+tests\BaseTest.class
+tests\ContactUsTest.class
+pages\ContactUsFromPage.class
+pages\BestsellerItemsPage.class
+pages\TopMenuPage.class
